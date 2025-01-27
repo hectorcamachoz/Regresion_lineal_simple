@@ -17,5 +17,5 @@ La base de datos cuenta con la siguiente información:
 
 Este proyecto incluye los siguientes documentos:
 - [Reporte en formato ipynb](https://github.com/hectorcamachoz/Regresion_lineal_simple/blob/main/A1_2_594557.ipynb)
-- [Reporte en formato pdf]()
+- [Reporte en formato pdf](https://github.com/hectorcamachoz/Regresion_lineal_simple/blob/main/A1_2_594557-Reporte.pdf)
 - [Base de datos](https://github.com/hectorcamachoz/Regresion_lineal_simple/blob/main/felicidad%26GDP.csv)
